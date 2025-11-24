@@ -110,4 +110,3 @@ obj.display()
 Therefore the given Python Program has been executed successfully and the output has been verified.
 
 
-## RESULT:
